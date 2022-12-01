@@ -4,4 +4,8 @@ This repo contains software artefacts necessary for Cyberglove usage in ROS. The
 
 [cyberglove](cyberglove) is a generic ROS interface to Immersion's Cyberglove dataglove.
 
+[cyberglove_trajectory](cyberglove_trajectory) contains source code for interacting with the Cyberglove and sending trajectory control data to the hand.
+
 [sr_gui_cyberglove_calibrator](sr_gui_cyberglove_calibrator) is an RQT plugin for calibrating the Cyberglove.
+
+[sr_remappers](sr_remappers) is used to remap data coming from different hardware to the Shadow Hardware.
